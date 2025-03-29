@@ -1,5 +1,5 @@
 package main
+
 import "fmt"
-func main() {
-    fmt.Println("TodoForge")
-}
+
+func main() { fmt.Println("TodoForge") }
